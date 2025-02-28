@@ -7,5 +7,8 @@ En este proyecto se presenta el diseño de una base de datos para un concesionar
 ## Diagrama UML
 
 - **Modelo conceptual:**
+![alt text](image.png)
 - **Modelo lógico:**
+![alt text](image-2.png)
 - **Modelo físico:**
+![alt text](image-1.png)
